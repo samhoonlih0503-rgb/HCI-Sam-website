@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f6e9;
+  color: #333;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fbb03b;
+  padding: 20px;
+}
+
+header .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #000;
+}
+
+/* Intro */
+.intro {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.intro h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.intro p {
+  font-size: 1em;
+}
+
+/* Featured Sections */
+.featured {
+  padding: 20px;
+}
+
+.featured h2 {
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: #fdb913;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.card h3 {
+  margin-top: 15px;
+  font-size: 1.2em;
+}
+
+.card p {
+  font-size: 0.9em;
+}
+
+.card .small-text {
+  font-size: 0.8em;
+  color: #fff;
+}
+
+/* Footer */
+footer {
+  background-color: #fbb03b;
+  padding: 20px;
+  text-align: center;
+}
+
+footer .socials a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Malaysia Travel - Zoo Negara</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="logo">Destination</div>
+    <nav class="nav">
+      <a href="#">Home</a>
+      <a href="#">Destinations</a>
+      <a href="#">Hotels</a>
+      <a href="#">Food</a>
+    </nav>
+  </header>
+
+  <!-- TITLE -->
+  <h1 class="title">Most Famous Malaysia Place to travel</h1>
+
+  <!-- MAIN CONTENT -->
+  <section class="container">
+
+    <!-- LEFT -->
+    <div class="left">
+      <img
+        src="https://www.maisinggah.com/wp-content/uploads/2024/01/Gambar-Pintu-Masuk-Zoo-Negara-Malaysia.webp" 
+        class="main-image"
+      >
+
+      <h2>Zoo Negara</h2>
+      <p>
+        Zoo Negara (Malaysia’s National Zoo) is a famous conservation,
+        education and recreation centre located near Kuala Lumpur.
+      </p>
+
+      <h3>Standard Entrance Fees</h3>
+      <ul>
+        <li>Adult (13+ years): RM45</li>
+        <li>Child (3–12 years): RM18</li>
+        <li>Senior Citizen (60+ years): RM23</li>
+        <li>Children under 3 years: Free</li>
+      </ul>
+    </div>
+
+    <!-- RIGHT -->
+    <div class="right">
+      <h2>Zoo Negara Best Animal</h2>
+
+      <div class="gallery">
+        <img src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy0H8UOqXBQ6n22n53M2wj3WoZa_arLBxWujL9gnR6hESW79P-vzkzmO9bqo-pA3lIKcoWpZNi68Ff7hNuSLua2IJlTajaOpYmwJ0sXIvQJJeNbi9ET7my9x0RxaHASj2nwIJSPiA=s1360-w1360-h1020-rw">
+        <img src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx1vj1Pr4qXE2s06NRLraN8YVGPO3isAV4wo51Tjj0p4_g39PD_sIgGXFrrg6OynkCRK-BFOF83KT-V3kEF80e33-D82UGu_3imq5qTOSdeSbyzRUHcIPPEsR6Tesg23kgPhwSm=s1360-w1360-h1020-rw">
+        <img src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSweKmIPCOcMVSMgfNFh5iRrVG4ZYbb-NN0-r702AMV0OHGkkSY1FuJJFepaO3zstpAnBEXySmFW58BTWZSO_HT1iLwvxL6LjreiCs-T2j9tkiP4GQW5mX3Spm6nHgtoYpNF0ON_aA=s1360-w1360-h1020-rw">
+        <img src="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyoJkrI-63785qlYBTbaNMPcR_U55OcaAl0PAqrd_AZxQ19-7zWfEHHyUeowTcWolLrzSWK5EVC9C9NiAcPr7-Ga5RJmO5QaSda0MeazPnGv8J7S3fSTcZfal2DQGIlc-Is_YosYVo13UV_=s1360-w1360-h1020-rw">
+      </div>
+    </div>
+
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>Contact us: travelgo2email.com | +60 12-345 6789</p>
+
+    <div class="icons">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+      <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png">
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel & Stay</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">Hotel & Stay</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Destinations</a>
+      <a href="#">Hotels</a>
+      <a href="#">Food</a>
+    </nav>
+  </header>
+
+  <!-- Main Section -->
+  <main>
+    <div class="intro">
+      <h1>Booking.com</h1>
+      <h2>Find your next stay</h2>
+      <p>Search low prices on hotels, homes and much more...</p>
+    </div>
+
+    <!-- Cards -->
+    <div class="cards">
+      <!-- Hotel -->
+      <div class="card">
+        <img src="https://pix10.agoda.net/hotelImages/124/1246280/1246280_16061017110043391702.jpg?ca=6&ce=1&s=414x232" alt="Hotel">
+        <h3>Hotel</h3>
+        <p>A hotel is a place where people stay when they travel or go on holiday. Hotels provide rooms, beds, and basic facilities for guests.</p>
+        <ul>
+          <li>Comfortable rooms</li>
+          <li>Bathroom facilities</li>
+          <li>Free Wi-Fi</li>
+          <li>Food and drinks</li>
+          <li>Customer service</li>
+        </ul>
+      </div>
+
+      <!-- Apartments -->
+      <div class="card">
+        <img src="https://d34mfkth6cubud.cloudfront.net/wp-content/uploads/2022/12/26065935/living-in-apartments-Cover-20221226.jpg" alt="Apartments">
+        <h3>Apartments</h3>
+        <p>Greenview Residences – Kuala Lumpur</p>
+        <p>2-bedroom, 2-bathroom, 900 sq ft, RM 1,200/month</p>
+        <p>Facilities: Pool, gym, parking, 24/7 security</p>
+      </div>
+
+      <!-- Villas -->
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYX438vvOz04es8GnHlCP7e4ZrPoXVyZ-IA&s" alt="Villas">
+        <h3>Villas</h3>
+        <p>Sunset Villa – Penang</p>
+        <p>3-bedroom, 2-bathroom, 1,500 sq ft, RM 2,500/month</p>
+        <p>Facilities: Private pool, garden, parking, security</p>
+        <p>I can also make it one-line like this if you want: Sunset Villa, Penang – 3BR/2BA, 1,500 sq ft, RM 2,500/month, pool & garden</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>Contact us: travelgo2email.com | +60 12-345 6789</p>
+    <div class="social-icons">
+      <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s" alt="Facebook"></a>
+      <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6J11sfTh0T1l5cwPk2yz6wzIJk0hX873ow&s" alt="Instagram"></a>
+      <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8BNEUnZkgMbwVmQiBlBGA6RkqW01-2-JDA&s" alt="X"></a>
+    </div>
+  </footer>
+</body>
+</html>
